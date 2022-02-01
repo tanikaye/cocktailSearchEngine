@@ -4,7 +4,7 @@ The cocktail recipe finder lets you discover cocktail recipes and ingredients th
 
 ## User Features
 
-Descriptive images, recipes, and ingredients in a user-friendly interface that mimics the look of a physical (recipe) book.
+Descriptive images, recipes, and ingredients in a user-friendly interface that mimics the look of a physical recipe book.
 
 ## Technologies & API(s)
 
